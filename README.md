@@ -1,6 +1,8 @@
 # SoccerCentral
 UNL Course Project
 
+Frameworks and languages used: AngularJS, Express, Node.js, MongoDB. 
+
 Soccer Central is a web application that uses the FIFA
 statistics of players to enable users to search and project the
 different attributes and abilities of players, country, club in the
