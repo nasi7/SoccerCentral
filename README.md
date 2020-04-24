@@ -10,4 +10,4 @@ understanding of a player or team . The application enables
 Fantasy League players to make an informed choice of players
 or team while playing in Career mode.
 
-#### More detailed description of the project can be found in "SoccerCentral Desciption" file.
+#### More detailed description of the project can be found in SoccerCentral_Description.pdf.
